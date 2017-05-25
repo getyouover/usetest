@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  * @author JIT_LiangR
- *
+ *you can leave up you set
  *         2017年4月18日 下午9:42:18
  */
 public class InputTxt {
